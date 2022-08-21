@@ -1,6 +1,8 @@
 # Professional-README-Generator
 
-##  Our Task
+
+
+##  Description
 
 Our task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
 
@@ -17,6 +19,21 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
+## Table of Contents
+
+- [Professional-README-Generator](#professional-readme-generator)
+  - [Description](#description)
+  - [User Story](#user-story)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [Links](#links)
+  - [DEMO](#demo)
+
+## Installation
+
+* Inquirer module
+
 
 ## Acceptance Criteria
 
