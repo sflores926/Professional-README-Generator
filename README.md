@@ -21,10 +21,6 @@ SO THAT I can quickly create a professional README for a new project
 ```
 ## Table of Contents
 
-- [Professional-README-Generator](#professional-readme-generator)
-  - [Description](#description)
-  - [User Story](#user-story)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Links](#links)
