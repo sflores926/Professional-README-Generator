@@ -41,12 +41,12 @@
   ${answers.description}
 
   ## Table of Contents
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contribute](#contribute)
-  *[Test](#test)
-  *[Questions](#questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribute](#contribute)
+  - [Test](#test)
+  - [Questions](#questions)
 
   ## Installation
   ${answers.installation}
