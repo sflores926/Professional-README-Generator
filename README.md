@@ -53,8 +53,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Links
 
-* GitHub:
-* Deployed:
+* GitHub: https://github.com/sflores926/Professional-README-Generator
+* Deployed: https://sflores926.github.io/Professional-README-Generator/
 
 
 ## DEMO
