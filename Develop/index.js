@@ -38,6 +38,7 @@ const questions = () => {
             name: 'license',
             message: 'Choose an open source license?',
             choices: ['MIT', 'GNU'],
+            default: ['MIT'],
         },
         {
             type: 'input',
