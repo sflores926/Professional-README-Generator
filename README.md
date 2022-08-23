@@ -59,3 +59,4 @@ THEN I am taken to the corresponding section of the README
 
 ## DEMO
 
+![gif of how to create a readme through node.js](./Develop/images/Untitled_%20Aug%2023,%202022%202_18%20PM.gif)
